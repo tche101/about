@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research
+permalink: /research/
 ---
 
 **American public opinion on climate change**
