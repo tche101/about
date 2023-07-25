@@ -1,8 +1,9 @@
 ---
-permalink: /
-redirect_from:
-  - /about
+layout: page
+title: About
+permalink: /about
 ---
+
 ![Alternative Text](hs.jpg){: width="400" style="float: right"}
 Welcome to my home page! My name is Catherine Chen; I am a Ph.D. Candidate at the Department of Communication at Stanford University, advised by Professor Jon Krosnick. I am currently on the academic job market, seeking an assistant professor position set to commence in the fall of 2024.  
 
