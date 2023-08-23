@@ -4,4 +4,4 @@ title: CV
 permalink: /CV
 ---
 
-[CV Here](CV.pdf)
+Please click [here](CV.pdf) to view my CV. 
