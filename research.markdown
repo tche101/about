@@ -20,7 +20,7 @@ Study 1 compared responses obtained from traditional direct questions and the IC
 
 **Interventions to bolster COVID-19 vaccination**
 
-**Chen, C.**, Cui, Z., & Chen, Y. (2023). A randomized controlled trial of an information intervention to bolster COVID-19 vaccination intention among people with purity concerns. *Health Psychology*. Advance online publication. https://doi.org/10.1037/hea0001295 [[PDF]](Purity.pdf)
+**Chen, C.**, Cui, Z., & Chen, Y. (2023). A randomized controlled trial of an information intervention to bolster COVID-19 vaccination intention among people with purity concerns. *Health Psychology, 42*(9), 686–697. https://doi.org/10.1037/hea0001295 [[PDF]](Purity.pdf)
 
 Drawing upon the Moral Foundations Theory, we designed two information interventions (Study 1: N = 566; Study 2: N = 637) to persuade people with purity concerns to get vaccinated against COVID-19. Both messages significantly increased attitudes toward vaccines and intentions to get vaccinated.
 
