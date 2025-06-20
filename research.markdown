@@ -6,7 +6,7 @@ permalink: /research/
 
 **Peer-Reviewed Publications**
 
-**Chen, C.**, & Cui, Z. (2025). Impact of AI-Assisted Diagnosis on American Patients’ Trust in and Intention to Seek Help From Health Care Professionals: Randomized, Web-Based Survey Experiment. *Journal of Medical Internet Research, 27*, e66083. [https://doi.org/10.2196/66083](https://www.jmir.org/2025/1/e66083)[[PDF]](Chen and Cui JMIR.pdf)
+**Chen, C.**, & Cui, Z. (2025). Impact of AI-Assisted Diagnosis on American Patients’ Trust in and Intention to Seek Help From Health Care Professionals: Randomized, Web-Based Survey Experiment. *Journal of Medical Internet Research, 27*, e66083. [https://doi.org/10.2196/66083](https://www.jmir.org/2025/1/e66083) [[PDF]](JMIR.pdf)
 
 **Chen, C.**, Cui, Z., & Chen, Y. (2023). A randomized controlled trial of an information intervention to bolster COVID-19 vaccination intention among people with purity concerns. *Health Psychology, 42*(9), 686–697. [https://doi.org/10.1037/hea0001295](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fhea0001295) [[PDF]](Purity.pdf)
 
@@ -14,7 +14,7 @@ permalink: /research/
 
 **Book Chapter**
 
-**Chen, C.**, MacInnis, B. & Krosnick, J. A. (2025). American Public Opinion on Climate Change. In M. Lackner, B. Sajjadi & W. Chen (Eds.), *Handbook of Climate Change Mitigation and Adaptation*. Springer. [https://doi.org/10.1007/978-1-4614-6431-0_190-1](https://link.springer.com/rwe/10.1007/978-1-4614-6431-0_190-1)[[PDF]](American Public Opinion on Climate Change.pdf)
+**Chen, C.**, MacInnis, B. & Krosnick, J. A. (2025). American Public Opinion on Climate Change. In M. Lackner, B. Sajjadi & W. Chen (Eds.), *Handbook of Climate Change Mitigation and Adaptation*. Springer. [https://doi.org/10.1007/978-1-4614-6431-0_190-1](https://link.springer.com/rwe/10.1007/978-1-4614-6431-0_190-1) [[PDF]](American Public Opinion on Climate Change.pdf)
 
 **Preprint**
 
