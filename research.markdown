@@ -14,7 +14,7 @@ permalink: /research/
 
 **Book Chapter**
 
-**Chen, C.**, MacInnis, B. & Krosnick, J. A. (2025). American Public Opinion on Climate Change. In M. Lackner, B. Sajjadi & W. Chen (Eds.), *Handbook of Climate Change Mitigation and Adaptation*. Springer. [https://doi.org/10.1007/978-1-4614-6431-0_190-1](https://link.springer.com/rwe/10.1007/978-1-4614-6431-0_190-1) [[PDF]](American Public Opinion on Climate Change.pdf)
+**Chen, C.**, MacInnis, B. & Krosnick, J. A. (2025). American Public Opinion on Climate Change. In M. Lackner, B. Sajjadi & W. Chen (Eds.), *Handbook of Climate Change Mitigation and Adaptation*. Springer. [https://doi.org/10.1007/978-1-4614-6431-0_190-1](https://link.springer.com/rwe/10.1007/978-1-4614-6431-0_190-1) [[PDF]](BookChap.pdf)
 
 **Preprint**
 
