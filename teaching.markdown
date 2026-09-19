@@ -8,7 +8,7 @@ permalink: /teaching/
 
 POLI 4030 Public Political Attitude & Public Opinion, Department of Political Science, Louisiana State University [[Syllabus]](POLI 4030 Syllabus.pdf)
 
-MC 4971 Strategic Persuasion: Influencing Public Opinion and Perceptions, Manship School of Mass Communication, Louisiana State University [[Syllabus]](MC 4971 Syllabus.pdf)
+MC 3505: Media and Policy Processes, Manship School of Mass Communication, Louisiana State University [[Syllabus]](MC 3505 Syllabus.pdf)
 
 MC 7004 News Media & Governance, Manship School of Mass Communication, Louisiana State University [[Syllabus]](MC_7004 Syllabus.pdf)
 
